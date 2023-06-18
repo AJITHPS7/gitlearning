@@ -1,1 +1,4 @@
 git init>>>[to initalize git]
+git add -A=>add files to staging medium
+git commit -m "message"=>> addding files to local repo
+git status=>lising all untracked files
